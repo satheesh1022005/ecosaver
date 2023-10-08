@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/sih2023/static/css/main.0e75f6e4.css",
-    "main.js": "/sih2023/static/js/main.f549a31a.js",
+    "main.css": "/sih2023/static/css/main.99ce936a.css",
+    "main.js": "/sih2023/static/js/main.3a96997d.js",
     "static/js/787.d07873dd.chunk.js": "/sih2023/static/js/787.d07873dd.chunk.js",
+    "static/media/inback.jpg": "/sih2023/static/media/inback.c3e196752b28e687fe5b.jpg",
     "static/media/ironbox.png": "/sih2023/static/media/ironbox.f7b3f882a2c08bd050b4.png",
     "static/media/fridge.jpg": "/sih2023/static/media/fridge.00369c00da85ae143563.jpg",
     "static/media/washinemachine.webp": "/sih2023/static/media/washinemachine.4ef063807d02465411d9.webp",
     "static/media/waterheater.jpg": "/sih2023/static/media/waterheater.850ba7b84955d3fcc2ed.jpg",
+    "static/media/ledlight.jpg": "/sih2023/static/media/ledlight.0e7276f5a3a23ee9d451.jpg",
     "static/media/electricstove.jpg": "/sih2023/static/media/electricstove.fa3cac5a7a7b2a3abc59.jpg",
     "static/media/fan.webp": "/sih2023/static/media/fan.64d501f44370b87fd38a.webp",
     "static/media/google.png": "/sih2023/static/media/google.6bc7d49355c4e25579a0.png",
+    "static/media/showerhead.jpg": "/sih2023/static/media/showerhead.808e318f70e0657a0f99.jpg",
     "static/media/vacumcleaner.webp": "/sih2023/static/media/vacumcleaner.b3cddefa2ab7f6512057.webp",
+    "static/media/ework.jpg": "/sih2023/static/media/ework.adbbec41dd82298635bd.jpg",
     "static/media/tv.jpg": "/sih2023/static/media/tv.8c95dd05a392c31fa974.jpg",
     "static/media/AC.webp": "/sih2023/static/media/AC.b243cc1cec34538e75d9.webp",
     "static/media/mixie.jpg": "/sih2023/static/media/mixie.bfa2e320ddc6a9eccf78.jpg",
@@ -19,12 +23,12 @@
     "static/media/hairdryer.jpg": "/sih2023/static/media/hairdryer.98c092c81dfc6ba6c54c.jpg",
     "static/media/background.jpeg": "/sih2023/static/media/background.74461832d4946bc69614.jpeg",
     "index.html": "/sih2023/index.html",
-    "main.0e75f6e4.css.map": "/sih2023/static/css/main.0e75f6e4.css.map",
-    "main.f549a31a.js.map": "/sih2023/static/js/main.f549a31a.js.map",
+    "main.99ce936a.css.map": "/sih2023/static/css/main.99ce936a.css.map",
+    "main.3a96997d.js.map": "/sih2023/static/js/main.3a96997d.js.map",
     "787.d07873dd.chunk.js.map": "/sih2023/static/js/787.d07873dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e75f6e4.css",
-    "static/js/main.f549a31a.js"
+    "static/css/main.99ce936a.css",
+    "static/js/main.3a96997d.js"
   ]
 }
